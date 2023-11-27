@@ -17,7 +17,7 @@
 <p align="center">
     <em>Memento: RLO Extension Spoofing.</em>
     <br>
-    Right-to-Left Override (RLO) Extension Spoofing
+    Right-to-Left Override (RLO) Extension Spoofing.
 </p>
 
 <!-- Links & Demo -->
